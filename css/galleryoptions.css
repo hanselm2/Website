@@ -1,0 +1,43 @@
+#jobBrowser
+{
+float:right;
+width:140px;
+height:500px;
+border-left:1px solid gray;
+border-top:1px solid gray;
+overflow-y:scroll;
+overflow-x:hidden;
+}
+
+#jobBrowser img
+{
+border:none;
+margin-left:10px;
+width:100px;
+height:100px;
+cursor:pointer;
+}
+
+#jobBrowser img:hover, #categories li:hover
+{
+opacity:.6;
+alpha:filter(opacity=60);
+}
+
+#categories
+{
+width:120px;
+cursor:pointer;
+}
+
+#categories a
+{
+text-decoration:none;
+color:black;
+}
+
+#explaination
+{
+float:left;
+width:540px;
+}

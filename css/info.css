@@ -1,0 +1,20 @@
+#displayleft
+{
+float:left;
+width:50%;
+}
+#displayright
+{
+width:50%;
+float:right;
+}
+#info p
+{
+text-indent:25px;
+}
+#displayright p, #displayleft p
+{
+text-indent:10px;
+margin-top:2px;
+margin-bottom:2px;
+}

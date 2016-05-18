@@ -1,0 +1,4 @@
+[07-Mar-2012 02:33:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handhre1/public_html/phpapps/Data/verify.php:9) in /home/handhre1/public_html/phpapps/Data/verify.php on line 43
+[07-Mar-2012 02:33:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handhre1/public_html/phpapps/Data/verify.php:9) in /home/handhre1/public_html/phpapps/Data/verify.php on line 43
+[09-Mar-2012 13:36:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handhre1/public_html/phpapps/Data/verify.php:9) in /home/handhre1/public_html/phpapps/Data/verify.php on line 37
+[09-Mar-2012 13:36:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handhre1/public_html/phpapps/Data/verify.php:9) in /home/handhre1/public_html/phpapps/Data/verify.php on line 38

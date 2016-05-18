@@ -1,0 +1,23 @@
+#info p, #info li
+{
+font-family:"Times New Roman";
+font-size:1.1em;
+}
+#italic
+{
+font-style:italic;
+}
+#Calibri, #Calibri li
+{
+font-family:Arial;
+font-size:.985em;
+}
+#bold
+{
+font-weight:bold;
+}
+#info img
+{
+margin-right:10px;
+float:left;
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<pictures>
+
+<Tabs id="Additions">
+
+  	<Group id="a">
+	    <After>Gallery/aaddafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+	</Group>
+
+	<Group id="b">
+	    <After>Gallery/baddafter1.jpg</After>
+	    <Before>Gallery/baddbefore1.jpg</Before>
+        </Group>
+
+      	<Group id="c">
+	    <After>Gallery/caddafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+	</Group>
+
+	<Group id="d">
+	    <After>Gallery/daddafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+	</Group>
+
+	<Group id="e">
+	    <After>Gallery/eaddafter1.jpg</After>
+	    <Before>Gallery/eaddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="f">
+	    <After>Gallery/faddafter1.jpg</After>
+	    <Before>Gallery/faddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="g">
+	    <After>Gallery/gaddafter1.jpg</After>
+	    <Before>Gallery/gaddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="i">
+	    <After>Gallery/iaddafter1.jpg</After>
+	    <Before>Gallery/iaddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="j">
+	    <After>Gallery/jaddafter1.jpg</After>
+	    <Before>Gallery/jaddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="l">
+	    <After>Gallery/laddafter1.jpg</After>
+	    <Before>Gallery/laddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="m">
+	    <After>Gallery/maddafter1.jpg</After>
+	    <Before>Gallery/maddbefore1.jpg</Before>
+        </Group>
+
+	<Group id="o">
+	    <After>Gallery/oaddafter1.jpg</After>
+	    <Before>Gallery/oaddbefore1.jpg</Before>
+        </Group>
+
+</Tabs>
+<Tabs id="Kitchens">
+
+	<Group id="b">
+            <After>Gallery/bkitchafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+	</Group>
+
+	<Group id="o">
+	    <After>Gallery/okitchafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+        </Group>
+
+</Tabs>
+
+<Tabs id="Bathrooms">
+
+	<Group id="b">
+            <After>Gallery/bbathafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+	</Group>
+
+</Tabs>
+<Tabs id="Miscellaneous">
+
+        <Group id="a">
+            <After>Gallery/amiscafter1.jpg</After>
+            <Before>Gallery/amiscbefore1.jpg</Before>
+        </Group>
+	
+        <Group id="h">
+	    <After>Gallery/hmiscafter1.jpg</After>
+	    <Before>Gallery/hmiscbefore1.jpg</Before>
+        </Group>
+
+	<Group id="o">
+	    <After>Gallery/opatioafter1.jpg</After>
+	    <Before>Gallery/mask.jpg</Before>
+        </Group>
+
+</Tabs>
+
+
+</pictures>

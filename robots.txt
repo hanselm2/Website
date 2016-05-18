@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:/remodelsource.xml
+Disallow:/remodeloptions.xml
+Disallow:/checkform.js
+Disallow:/phpapps/sanitize.php
+Disallow:/test.php
+Disallow:/hhdpiccontrol.js
+Disallow:/cgi-bin

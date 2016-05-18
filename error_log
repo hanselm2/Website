@@ -1,0 +1,33 @@
+[03-Apr-2011 23:45:49] PHP Parse error:  syntax error, unexpected T_STRING in /home/handhre1/public_html/index.php on line 7
+[03-Apr-2011 23:48:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/handhre1/public_html/tester.php on line 3
+[03-Apr-2011 23:50:47] PHP Warning:  include(phpapps/functionLinker.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/tester.php on line 2
+[03-Apr-2011 23:50:47] PHP Warning:  include(phpapps/functionLinker.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/tester.php on line 2
+[03-Apr-2011 23:50:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'phpapps/functionLinker.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/tester.php on line 2
+[03-Apr-2011 23:50:47] PHP Warning:  mysqli_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'handhre1'@'localhost' (using password: NO) in /home/handhre1/public_html/tester.php on line 4
+[03-Apr-2011 23:50:47] PHP Warning:  mysqli_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/handhre1/public_html/tester.php on line 4
+[03-Apr-2011 23:50:47] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/handhre1/public_html/tester.php on line 5
+[04-Apr-2011 00:18:09] PHP Parse error:  syntax error, unexpected '=' in /home/handhre1/public_html/tester.php on line 5
+[04-Apr-2011 00:19:21] PHP Parse error:  syntax error, unexpected '=' in /home/handhre1/public_html/tester.php on line 5
+[04-Apr-2011 00:21:10] PHP Parse error:  syntax error, unexpected '[' in /home/handhre1/public_html/tester.php on line 6
+[04-Apr-2011 00:21:36] PHP Parse error:  syntax error, unexpected '[' in /home/handhre1/public_html/tester.php on line 6
+[04-Apr-2011 00:22:18] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/handhre1/public_html/tester.php on line 6
+[04-Apr-2011 19:43:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/handhre1/public_html/tester.php on line 25
+[04-Apr-2011 19:50:21] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/handhre1/public_html/tester.php on line 25
+[04-Apr-2011 19:58:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/handhre1/public_html/tester.php on line 25
+[04-Apr-2011 20:00:29] PHP Parse error:  syntax error, unexpected '>', expecting T_VARIABLE or '$' in /home/handhre1/public_html/tester.php on line 60
+[04-Apr-2011 20:01:33] PHP Parse error:  syntax error, unexpected '>', expecting T_VARIABLE or '$' in /home/handhre1/public_html/tester.php on line 60
+[28-Jun-2011 02:01:19] PHP Warning:  include(dbpicsorter.pic) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:01:19] PHP Warning:  include(dbpicsorter.pic) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:01:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbpicsorter.pic' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:01:52] PHP Warning:  include(/phpapps/dbpicsorter.pic) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:01:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpapps/dbpicsorter.pic' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:02:50] PHP Warning:  include(/phpapps/dbpicsorter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:02:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/phpapps/dbpicsorter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:03:27] PHP Warning:  include(dbpicsorter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:03:27] PHP Warning:  include(dbpicsorter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 02:03:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbpicsorter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/phpapps/slideshowdbpuller.php on line 12
+[28-Jun-2011 03:09:11] PHP Warning:  include(dbpicsorter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/gallerydbpuller.php on line 16
+[28-Jun-2011 03:09:11] PHP Warning:  include(dbpicsorter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/handhre1/public_html/phpapps/gallerydbpuller.php on line 16
+[28-Jun-2011 03:09:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbpicsorter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/handhre1/public_html/phpapps/gallerydbpuller.php on line 16
+[28-Jun-2011 03:09:34] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/handhre1/public_html/phpapps/dbpicsort.php on line 6
+[06-Feb-2012 18:32:13] PHP Fatal error:  Call to undefined function  mysqul_query() in /home/handhre1/public_html/phpapps/HTMLpull.php on line 5

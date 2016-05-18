@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<subsets>
+<Kitchen>
+    <name>I like my layout but want it to be updated</name>
+    <name>There is plenty of space but it could be used better</name>
+    <name>My kitchen is too small and limited</name>
+    <name>New counter tops</name>
+    <name>Replace plumbing fixtures</name>
+    <name>Need new cabinets</name>
+    <name>The appliances need to be replaced</name>
+    <name>Like to add more lighting</name>
+    <name>I would like a new wood floor</name>
+    <name>I would like to have a stone or ceramic tile for my flooring</name>
+    <name>New ceramic tile backsplash</name>
+    <name>Other</name>
+</Kitchen>
+<Bathroom>
+    <name>I like my layout but want it updated</name>
+    <name>There is plenty of space but it could be used better</name>
+    <name>My bathroom (or master bathroom) is too small and limited</name>
+    <name>New counter tops</name>
+    <name>Replace plumbing fixtures</name>
+    <name>Need new cabinets</name>
+    <name>Like to add more lighting</name>
+    <name>I would like new flooring</name>
+    <name>Other</name>
+</Bathroom>
+<SecondStoryAddition>
+    <name>Would like to have more bedrooms</name>
+    <name>Have a 2nd family room</name>
+    <name>New Bathroom</name>
+    <name>Like to have an office/work room area</name>
+    <name>Laundry Room</name>
+    <name>Need more Storage</name>
+    <name>Other</name>
+</SecondStoryAddition>
+<FirstStoryAddition>
+    <name>Looking at an in-law suite</name>
+    <name>Some of my existing spaces are small and I would like them a little larger</name>
+    <name>Need a new guest bedroom</name>
+    <name>Looking for a home office</name>
+    <name>Like to have a mudroom/laundry space</name>
+    <name>Need a powder room</name>
+    <name>Other</name>
+</FirstStoryAddition>
+<Basement>
+    <name>Looking for a large multipurpose space for kids</name>
+    <name>Have a family room/entertainment area</name>
+    <name>New bathroom</name>
+    <name>Like to have an office/work room area</name>
+    <name>Laundry room</name>
+    <name>Need more storage</name>
+    <name>Other</name>
+</Basement>
+<MaintenanceorRepair>
+    <name id="0">Plumbing</name>
+    <name id="0">HVAC</name>
+    <name id="0">Electrical</name>
+    <name id="0">Home Exterior</name>
+    <name id="0">Home Interior</name>
+</MaintenanceorRepair>
+<Updating>
+    <name id="1">Plumbing</name>
+    <name id="1">HVAC</name>
+    <name id="1">Electrical</name>
+    <name id="1">Home Exterior</name>
+    <name id="1">Home Interior</name>
+</Updating>
+<Plumbing0>
+    <name>Leaking plumbing fixture</name>
+    <name>Low water pressure</name>
+    <name>Limited hot water</name>
+</Plumbing0>
+<HVAC0>
+    <name>AC does not cool properly</name>
+    <name>Furnace does not heat properly</name>
+    <name>Need to have furnace cleaned</name>
+    <name>Change filters</name>
+</HVAC0>
+<Electrical0>
+    <name>An Electrical device is not operating properly</name>
+    <name>Lights dim off and on</name>
+    <name>Circuit breakers orfuses blow often</name>
+</Electrical0>
+<HomeExterior0>
+    <name>Rotting or Decaying exterior material</name>
+    <name>Repait siding, soffits, fascia, gutters, or downspouts</name>
+    <name>Leaking roofs, chimneys, or vents</name>
+    <name>Clean AC compressor coil</name>
+    <name>Caulking and sealing</name>
+    <name>Other</name>
+</HomeExterior0>
+<HomeInterior0>
+    <name>Drywall and trim repair</name>
+    <name>Loose ceramic tile, trim, hardware, etc.</name>
+    <name>Caulking and sealing</name>
+    <name>Other</name>
+</HomeInterior0>
+<Plumbing1>
+    <name>Change out miscellaneous fixtures</name>
+    <name>Overhead sewers</name>
+    <name>Replace waterheater</name>
+</Plumbing1>
+<HVAC1>
+    <name>New furnace or AC</name>
+    <name>Add or update bathroom or kitchen exhaust fan</name>
+    <name>Roof attic ventilation</name>
+    <name>Whole house fan</name>
+</HVAC1>
+<Electrical1>
+    <name>Change out or upgrade existing electrical service</name>
+    <name>Change electrical fixtures</name>
+    <name>Add additional lighting, heating, sound, miscellaneous electric</name>
+    <name>Install standby generator</name>
+</Electrical1>
+<HomeExterior1>
+    <name>New siding</name>
+    <name>Replace soffit, fascia, gutters, or downspouts</name>
+    <name>Replace or reshingle roof or reflash chimneys</name>
+    <name>New hardscape(driveway, sidewalk, porches, or patio)</name>
+    <name>New wood deck, railing, columns, etc.</name>
+    <name>Replace windows or exterior doors</name>
+    <name>Other</name>
+</HomeExterior1>
+<HomeInterior1>
+    <name>Update interior trim (base, casing, crown, etc)</name>
+    <name>Custom built-in cabinets, entertainment centers</name>
+    <name>Update railings</name>
+    <name>Crownmolding</name>
+    <name>Replace interior doors</name>
+    <name>New floor finishes</name>
+    <name>Painting</name>
+    <name>Other</name>
+</HomeInterior1>
+</subsets>

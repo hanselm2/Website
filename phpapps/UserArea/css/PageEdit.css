@@ -1,0 +1,54 @@
+.listel
+{
+width:200px;
+height:20px;
+border-bottom-style:solid;
+border-bottom-color:gray;
+border-bottom-width:2px;
+}
+
+.listel:hover
+{
+cursor:pointer;
+}
+
+#describer
+{
+  background-color:gray;
+  font-weight:bold;
+  margin-bottom:5px;
+}
+
+.editbox
+{
+  width:100%;
+  height:60px;
+}
+
+#editreal
+{
+  float:right;
+}
+
+#editcontainer
+{
+  margin-top:5px;
+  width:100%;
+  height:100%;
+}
+
+#dirViewer img
+{
+  width:100px;
+  height:100px; 
+}
+
+#dirViewer .dir
+{
+  width:100%;
+}
+
+.dir .notifier
+{
+float:right;
+}

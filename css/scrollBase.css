@@ -1,0 +1,132 @@
+.top
+{
+  top:0px;
+}
+
+.bottom
+{
+  bottom:0px;
+}
+
+.left
+{
+  left:0px
+}
+
+.right
+{
+  right:0px;
+}
+
+.vert
+{
+  
+}
+
+.horiz
+{
+
+}
+
+.div[showCont]
+{
+
+}
+
+.scrollFrame
+{
+  position:relative;
+  height:100%;
+  width:100%;
+  overflow:hidden;
+  border-left:solid gray 1px;
+  border-top:solid gray 1px;
+}
+
+.scrollCont
+{
+  display:block;
+  padding:5px;
+}
+
+.scrollCont.vert
+{
+  margin-top:0px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.scrollCont.horiz, .scrollCont.horiz *
+{
+  margin-left:0px;
+  vertical-align:middle;
+}
+
+.scrollButImg
+{
+  display:block;
+  position:relative;
+}
+
+.scrollBut, .scrollBar
+{
+position:absolute;
+}
+
+.scrollBut.top
+{
+  top:0px;
+}
+
+.scrollBut.bottom
+{
+  bottom:0px;
+}
+
+.scrollBut.top, .scrollBut.bottom, .scrollBarBut.vert
+{
+  width:100%;
+}
+.scrollBut.top, .scrollBut.top .scrollButImg, .scrollBut.bottom, .scrollBut.bottom .scrollButImg
+{
+  height:40px;
+}
+
+.scrollBut.left, .scrollBut.right, .scrollBarBut.horiz
+{
+  height:100%;
+}
+.scrollBut.left, .scrollBut.left scrollButImg, .scrollBut.right, .scrollBut.right .scrollButImg
+{
+  width:40px;
+}
+
+.scrollBut.top .scrollButImg, .scrollBut.bottom .scrollButImg
+{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.scrollBut.left .scrollButImg, .scrollBut.right .scrollButImg
+{
+ vertical-align:middle;
+}
+
+.scrollFull
+{
+  position:relative;
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+.scrollBar.left, .scrollBar.right
+{
+  height:100%;
+  width:10px;
+}
+
+.scrollBar.bottom, .scrollBar.top
+{
+  width:100%;
+  height:10px;
+}

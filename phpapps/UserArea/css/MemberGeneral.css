@@ -1,0 +1,30 @@
+#MainMenu
+{
+width:200px;
+border-right-color:gray;
+border-right-style:solid;
+float:left;
+list-style:none;
+padding:0px;
+}
+
+#MainMenu li:hover
+{
+cursor:pointer;
+}
+
+#display
+{
+position:absolute;
+border-right:solid gray 4px;
+left:240px;
+width:600px;
+}
+
+#displayhelper
+{
+  position:absolute;
+  left:860px;
+  width:350px;
+  height:100%;
+}

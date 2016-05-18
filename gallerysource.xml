@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<gallery>
+<Addition>
+     <Group name="a" id="Addition"><After source="Gallery/aaddafter2.jpg" head="Picture 1">
+                                   <!--<Tag width="100px" height="50px" left="100px" top="40px" linker="1,0">
+                                   This is a description of the spot on the image.  The linker indicates
+                                   via array style the different group set and then pic number.
+                                   </Tag>-->
+                                   </After>
+                     <After source="Gallery/aaddafter1.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                     <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Front%20Entry%20Addition%3C/h4%3E%0A%3Cul%3EGoal%3A%20Build%20a%20front%20entry%20that%20enhances%20the%20existing%20lines%20of%20the%20house.%0A%3Cli%3EStone%20base%20to%20match%20house%3C/li%3E%0A%3Cli%3EFormal%20colonnade%20supporting%20beaded%20wood%20barrel%20vaulted%20ceiling.%3C/li%3E%0A%3C/ul%3E
+                     </Bios>
+     </Group>
+     <Group name="b" id="Addition"><After source="Gallery/baddafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/baddbefore1.jpg"></Before>
+	             <Before source="Gallery/baddbefore2.jpg"></Before>
+	             <Before source="Gallery/baddbefore3.jpg"></Before>
+	             <Before source="Gallery/baddbefore4.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Two%20Story%20addition%2C%20Family/Kitchen%20expansion%2C%20existing%20renovation%2C%20new%20fa%E7ade%20and%20front%20porch.%3C/h4%3E%0A%3Cul%3EGoal%3A%20increase%20family%20space%2C%20make%20house%20more%20usable%20for%20family%20gatherings%2C%20update%20the%20exterior%20character%20of%20the%20house.%0A%3Cli%3E%3Cul%3EExpanded%20First%20floor%3A%0A%3Cli%3EExpand%20Family%20room%3C/li%3E%0A%3Cli%3EExpand%20and%20Rehabilitate%20the%20existing%20kitchen%3C/li%3E%0A%3Cli%3ENew%20back%20entry%20with%20covered%20porch.%3C/li%3E%0A%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EExpanded%20and%20renovated%20the%202nd%20floor%0A%3Cli%3EMove%20the%20master%20bath%20and%20closet%20in%20new%202nd%20floor%20area.%3C/li%3E%0A%3Cli%3ERenovate%20the%20existing%20hall%20bathroom.%3C/li%3E%0A%3Cli%3ERehabilitate%20the%20%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%20and%20repair%20the%20entry%20stair.%3C/li%3E%0A%3Cli%3E%3Cul%3EChange%20fa%E7ade.%0A%3Cli%3ERemove%20mansard%20roofs.%3C/li%3E%0A%3Cli%3EReplace%20aluminum%20siding%20with%20cementious%20siding.%3C/li%3E%0A%3Cli%3ENew%20gable%20roofs%20over%20mansard%20windows.%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%20front%20porch.%0A%3Cli%3EStone%20on%20concrete%20floor%3C/li%3E%0A%3Cli%3EBeaded%20wood%20ceiling.%3C/li%3E%0A%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3C/ul%3E\
+                   </Bios>
+     </Group>
+     <Group name="c" id="Upper Addition"><After source="Gallery/cadd0after1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%202nd%20Floor%20over%20existing%20attached%20garage%3C/h4%3E%0A%3Cul%3EGoal%3A%20Add%20a%202nd%20floor%20Family%20Room%20and%20a%20new%20Bedroom%20taking%20advantage%20of%20existing%20Garage%20attic%20space.%20%0A%3Cli%3E%3Cul%3E2nd%20Floor%20Family%20Room%3A%0A%3Cli%3EShed%20dormer%20off%20the%20back%20for%20maximum%20space.%3C/li%3E%0A%3Cli%3EGable%20dorm%20on%20front%20to%20match%20character%20of%20the%20existing%20house.%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20bedroom%3A%3C/li%3E%0A%3Cli%3E%3Cul%3EMiscellaneous%20features%3A%0A%3Cli%3EVaulted%20ceiling.%3C/li%3E%0A%3Cli%3ENew%20HVAC%20for%20zoning.%3C/li%3E%0A%3Cul%3E%3C/li%3E%0A%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="c" id="Front Addition"><After source="Gallery/caddafter2.jpg" head="Picture 1"></After>
+                     <After source="Gallery/caddafter1.jpg" head="Picture 2"></After>
+                     <After source="Gallery/caddafter3.jpg" head="Picture 3"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20New%20Front%20entry%20and%20Interior%20Rehabilitation%3C/h4%3E%0A%3Cul%3EGoal%3A%20Update%20the%20front%20of%20the%20house%20and%20flow%20of%20interior%20space%20%0A%3Cli%3E%3Cul%3ENew%20formal%20front%20entry%3A%0A%3Cli%3EMove%20entry%20to%20center%20of%20house%3C/li%3E%0A%3Cli%3EAdd%20formal%20front%20entry%20door%3C/li%3E%0A%3Cli%3ENew%20painted%20wood%20beaded%20barrel%20vaulted%20ceiling%3C/li%3E%0A%3Cli%3ECustom%20wrought-iron%20railing%3C/li%3E%0A%3Cli%3EMasonry%20entry%20walk%2C%20stairs%20and%20porch%20floor%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehabilitate%20front%20rooms%0A%3Cli%3ECreate%20formal%20Dining%20Room%3C/li%3E%0A%3Cli%3ENew%20Foyer%3C/li%3E%0A%3Cli%3EHome%20Office/Guest%20Room%3C/li%3E%0A%3Cli%3EInformal%20Information%20Center%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring.%09%09%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="d" id="Front Addition"><After source="Gallery/daddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/daddafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Third%20floor%20addition%3C/h4%3E%0A%3Cul%3EGoal%3A%20increase%20living%20space%20in%20a%20small%20house%20on%20a%20small%20lot%20without%20losing%20the%20character%20of%20the%20home%0A%3Cli%3E%3Cul%3EExpanded%20existing%20attic%20area.%0A%3Cli%3EAdded%202%20bedrooms%3C/li%3E%0A%3Cli%3ENew%20full%20bathroom%3C/li%3E%0A%3Cli%3EChange%20frame%20stair%20to%20oak%20stair.%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ERenovate%202nd%20floor%20transitional%20area.%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%20and%20repaired%20oak%20flooring%0A%3Cli%3ECustom%20stain%20on%20oak%20flooring.%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3C/ul%3E%0A%0A%0A 
+                   </Bios>
+     </Group>
+     <Group name="e" id="Addition"><After source="Gallery/eaddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/eaddafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/eaddafter3.jpg" head="Picture 3"></After>
+	             <Before source="Gallery/eaddbefore1.jpg"></Before>
+	             <Before source="Gallery/eaddbefore2.jpg"></Before>
+	             <Before source="Gallery/eaddbefore3.jpg"></Before>
+	             <Before source="Gallery/eaddbefore4.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Two%20Story%20addition%20and%20existing%20renovation%3C/h4%3E%0A%3Cul%3EGoal%3A%20increase%20family%20space%2C%20make%20house%20more%20usable%20for%20family%20gatherings%2C%20and%20keep%20the%20Dutch%20Colonial%20character.%0A%3Cli%3E%3Cul%3EExpanded%20First%20floor%3A%0A%3Cli%3EAdd%20Family%20room%3C/li%3E%0A%3Cli%3EMove%20and%20expand%20kitchen%3C/li%3E%0A%3Cli%3EBreakfast%20and%20desk%20area%20adjoining%20kitchen%3C/li%3E%0A%3Cli%3ERehabilitate%20back%20entry%20to%20be%20a%20mud%20room%20with%20built-in%20cubbies%3C/li%3E%0A%3Cli%3ENew%20powder%20room%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EExpanded%202nd%20floor%20transitional%20area%3A%0A%3Cli%3E2%20new%20bed%20rooms%3C/li%3E%0A%3Cli%3EAdd%20new%20bathroom%20%3C/li%3E%0A%3Cli%3ERehabilitate%20existing%20space%20%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%20and%20repaired%20oak%20flooring%3A%0A%3Cli%3ECustom%20stain%20on%20oak%20flooring%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%20%20%20%20%3C/ul%3E%0A%0A%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="f" id="Addition"><After source="Gallery/faddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/faddafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/faddafter3.jpg" head="Picture 3"></After>
+	             <Before source="Gallery/faddbefore1.jpg"></Before>
+	             <Before source="Gallery/faddbefore2.jpg"></Before>
+	             <Before source="Gallery/faddbefore3.jpg"></Before>
+	             <Before source="Gallery/faddbefore4.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%202nd%20Story%20addition%3C/h4%3E%0A%3Cul%3EGoal%3A%20Add%20a%20Master%20Bedroom%20Suite%20and%20Work%20Room%20on%20a%20tri-level%20house.%20%20Enhance%20the%20character%20of%20the%20house%20to%20look%20like%20a%20traditional%20two%20story%20house.%0A%3Cli%3E%3Cul%3ENew%202nd%20Story%3A%0A%3Cli%3E%3Cul%3EMaster%20Bedroom%20Suite%3A%0A%3Cli%3E3%20unit%20bathroom%3C/li%3E%0A%3Cli%3EWalk-in%20closet%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3EWork%20Room%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERenovate%20original%20upper%20level%20Hallway%3A%0A%3Cli%3ERaise%20hallway%20ceiling%206%u2019%3C/li%3E%0A%3Cli%3EAdd%20clerestory%20windows%20for%20natural%20lighting%3C/li%3E%0A%3Cli%3EReplace%20frame%20stairs%20with%20new%20oak%20stairs%20and%20railings%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="g" id="Addition"><After source="Gallery/gaddafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/gaddbefore1.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%202nd%20Floor%20addition%20and%201st%20Floor%20rehabilitation%3C/h4%3E%0A%3Cul%3EGoal%3A%20Double%20the%20space%20of%20a%20ranch%20home%20for%20a%20growing%20family%20and%20create%20an%20In-Law%20suite.%20%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%3A%0A%3Cli%3ETwo%20new%20standard%20Bedrooms%3C/li%3E%0A%3Cli%3ENew%204%20fixture%20Hall%20bathroom%3C/li%3E%0A%3Cli%3E2nd%20floor%20Family%20Room%3C/li%3E%0A%3Cli%3EMaster%20Bedroom%20Suite%3C/li%3E%0A%3Cli%3ELaundry%20Room%3C/li%3E%0A%3Cli%3EArt%20Room%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehabilitated%20First%20floor%3A%0A%3Cli%3EBedroom%20/%20Home%20Office%20space%3C/li%3E%0A%3Cli%3EIn-Law%20space%20with%20Handicapped%20Bathroom%3C/li%3E%0A%3Cli%3ERehabilitated%20Kitchen%20and%20Eating%20area%3C/li%3E%0A%3Cli%3ENew%20front%20porch%20/%20entry%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20oak%20flooring.%3C/li%3E%0A%3C/ul%3E%09%09%0A
+                   </Bios>
+     </Group>
+     <Group name="i" id="Addition"><After source="Gallery/iaddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/iaddafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/iaddafter3.jpg" head="Picture 3"></After>
+                     <After source="Gallery/iaddafter4.jpg" head="Picture 4"></After>
+	             <Before source="Gallery/iaddbefore1.jpg"></Before>
+	             <Before source="Gallery/iaddbefore2.jpg"></Before>
+	             <Before source="Gallery/iaddbefore3.jpg"></Before>
+	             <Before source="Gallery/iaddbefore4.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%20%22underlined%22%3EPROJECT%3A%20Rehabilitate%20existing%20Ranch%20%u2013%20Cape%20Cod%20home%3C/h4%3E%0A%3Cul%3EGoal%3A%20Re-build%20an%20existing%20crumbling%20Family%20Room%20and%20kitchen.%20%20Improve%20the%20existing%20house%u2019s%20layout%20and%20curb%20appeal%20%0A%3Cli%3E%3Cul%3ERebuild%20East%20Wing%20of%20the%20house.%0A%3Cli%3E%3Cul%3EFamily%20Room%3A%0A%3Cli%3ETear-down%20existing%20structure%3C/li%3E%0A%3Cli%3EStabilize%20foundation%3C/li%3E%0A%3Cli%3ERepair%20concrete%20floor%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3EExpand%20Kitchen%20and%20eating%20area%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehab%20center%20portion%20of%20existing%20First%20floor%3A%0A%3Cli%3ECreate%20formal%20dining%20room%3C/li%3E%0A%3Cli%3ENew%20front%20entry%20space%3C/li%3E%0A%3Cli%3ERehabilitated%20Laundry%20and%20Bathroom%20space%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%20Bathroom.%0A%3Cli%3EShed%20dormer%20with%204%20unit%20bathroom%20and%20linen%20closet.%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EUpdate%20the%20front%20fa%E7ade%3A%0A%3Cli%3ENew%20gable%20roofs%20on%20front%20shed%20dormers%3C/li%3E%0A%3Cli%3ENew%20gable%20front%20entry%3C/li%3E%0A%3Cli%3ENew%20siding%20and%20roofing%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="j" id="Addition"><After source="Gallery/jaddafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/jaddbefore1.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Add%20new%20Wrap%20around%20Front%20Porch%3C/h4%3E%0A%3Cul%3EGoal%3A%20Enhance%20the%20exterior%20appeal%20of%20a%20Colonial%20House%20%0A%3Cli%3EWrap%20around%20front%20porch%20with%20formal%20colonial%20details%3C/li%3E%0A%3Cli%3ETongue%20and%20groove%20wood%20floor%3C/li%3E%0A%3Cli%3EWood%20beaded%20ceiling%3C/li%3E%0A%3Cli%3EVaulted%20entry%20ceiling%3C/li%3E%0A%3C/ul%3E%0A%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="k" id="Addition"><After source="Gallery/kaddafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/kaddbefore1.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Finish%20off%20existing%20Family%20Room%3C/h4%3E%0A%3Cul%3EGoal%3A%20Complete%20Renovation%20of%20a%2017th%20Century%20American%20home%20%0A%3Cli%3EFinish%20plaster%20on%20walls%20and%20ceiling%3C/li%3E%0A%3Cli%3ETrim%20doors%20in%20windows%20with%20custom%20wood%20trim%3C/li%3E%0A%3Cli%3EComplete%20Wainscot%20with%20salvaged%20knotty%20pine%3C/li%3E%0A%3Cli%3EFinish%20wood%20work%20with%20hand%20rubbed%20oil%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="l" id="Addition"><After source="Gallery/laddafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/laddbefore1.jpg"></Before>
+	             <Before source="Gallery/laddbefore2.jpg"></Before>
+	             <Before source="Gallery/laddbefore3.jpg"></Before>
+	             <Before source="Gallery/laddbefore4.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Two%20Story%20addition%3C/h4%3E%0A%3Cul%3EGoal%3A%20Replace%20existing%20family%20room%20with%20new%20Two%20Story%20addition%20in%20keeping%20with%20the%20existing%20Cape%20Cod%20Style.%0A%3Cli%3ERebuild%20and%20expand%20existing%20first%20floor%20Family%20Room%3C/li%3E%0A%3Cli%3EAdd%20new%20back%20porch%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%20space%3A%0A%3Cli%3E%3Cul%3ENew%20Master%20Bedroom%20Suite.%0A%3Cli%3E4%20fixture%20bathroom%3C/li%3E%0A%3Cli%3EWalk-in%20Closey%3C/li%3E%0A%3Cli%3EVaulted%20bedroom%20ceiling%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20masonry%20Fireplace%3C/li%3E%0A%3Cli%3ENew%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="m" id="Addition"><After source="Gallery/maddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/maddafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/maddafter3.jpg" head="Picture 3"></After>
+                     <After source="Gallery/maddafter4.jpg" head="Picture 4"></After>
+                     <After source="Gallery/maddafter5.jpg" head="Picture 5"></After>
+	             <Before source="Gallery/maddbefore1.jpg"></Before>
+	             <Before source="Gallery/mask.jpg"></Before>
+	             <Before source="Gallery/maddbefore3.jpg"></Before>
+                   <Bios>%0A%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Rebuild%201970%u2019s%20addition%20to%20a%20Two%20Story%20addition%3C/h4%3E%0A%3Cul%3EGoal%3A%20Gain%20more%20usable%20space%20from%20a%201970%u2019s%20frame%20addition%20and%20better%20configure%20the%20existing%20Colonial%20house.%20%0A%3Cli%3E%3Cul%3ERehabilitate%20the%20existing%201st%20floor%201970%u2019s%20addition%3A%0A%3Cli%3ENew%20formal%20powder%20room%3C/li%3E%0A%3Cli%3E%3Cul%3EGreat%20room%3A%09%0A%3Cli%3EKitchen%3C/li%3E%0A%3Cli%3EEating%20area%3C/li%3E%0A%3Cli%3EBack%20entry%3C/li%3E%0A%3Cli%3EFamily%20room%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%20space%3A%0A%3Cli%3E%3Cul%3ENew%20Master%20Bedroom%20Suite%3A%0A%3Cli%3E4%20fixture%20bathroom%3C/li%3E%0A%3Cli%3EWalk-in%20Closet%3C/li%3E%0A%3Cli%3EVaulted%20bedroom%20ceiling%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ELaundry%20room%3C/li%3E%0A%3Cli%3EHome%20office%3C/li%3E%0A%20%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20basement%20stairs%3C/li%3E%0A%3Cli%3ENew%20oak%20stair%20to%202nd%20floor%3C/li%3E%0A%3Cli%3ERepair%20and%20install%20new%20oak%20flooring%3C/li%3E%3C/ul%3E%0A
+                   </Bios>
+     </Group>
+     <Group name="n" id="Addition"><After source="Gallery/naddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/naddafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%0A%3Ch4%20id%3D%u201Cunderlined%u201D%3EPROJECT%3A%20New%202%20%BD%20Car%20Garage%3C/h4%3E%0A%3Cul%3EGoal%3A%20Replace%20existing%20decaying%202%20car%20garage%20with%20new%202%20%BD%20car%20garage%20in%20the%20style%20of%20the%20existing%20home.%0A%3Cli%3ERemove%20the%20existing%20garage%3C/li%3E%0A%3Cli%3ERoof%20lines%20to%20match%20the%20existing%20home%3C/li%3E%0A%3Cli%3EAttic%20storage%20area%3C/li%3E%0A%3C/ul%3E%0A
+                   </Bios>
+     </Group>
+     <Group name="o" id="Addition"><After source="Gallery/oaddafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/oaddafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/oaddbefore1.jpg"></Before>
+                   <Bios> </Bios>
+     </Group>
+     <Group name="o" id="Upper Room Addition"><After source="Gallery/ouproomafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/ouproomafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>  </Bios>
+     </Group>
+     <Group name="o" id="Dining Room"><After source="Gallery/odinroomafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios> </Bios>
+     </Group>
+     <Group name="o" id="Family Room Addition"><After source="Gallery/ofamroomafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/ofamroomafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/ofamroomafter3.jpg" head="Picture 3"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>  </Bios>
+     </Group>
+     <Group name="o" id="Sun Room Addition"><After source="Gallery/osunroomafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/osunroomafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios> </Bios>
+     </Group>
+     <Group name="o" id="Balcony Addition"><After source="Gallery/obalconyafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/obalconyafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios> </Bios>
+     </Group>
+</Addition>
+<Kitchen>
+     <Group name="b" id="Kitchen"><After source="Gallery/bkitchafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/bkitchafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                     <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Two%20Story%20addition%2C%20Family/Kitchen%20expansion%2C%20existing%20renovation%2C%20new%20fa%E7ade%20and%20front%20porch.%3C/h4%3E%0A%3Cul%3EGoal%3A%20increase%20family%20space%2C%20make%20house%20more%20usable%20for%20family%20gatherings%2C%20update%20the%20exterior%20character%20of%20the%20house.%0A%3Cli%3E%3Cul%3EExpanded%20First%20floor%3A%0A%3Cli%3EExpand%20Family%20room%3C/li%3E%0A%3Cli%3EExpand%20and%20Rehabilitate%20the%20existing%20kitchen%3C/li%3E%0A%3Cli%3ENew%20back%20entry%20with%20covered%20porch.%3C/li%3E%0A%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EExpanded%20and%20renovated%20the%202nd%20floor%0A%3Cli%3EMove%20the%20master%20bath%20and%20closet%20in%20new%202nd%20floor%20area.%3C/li%3E%0A%3Cli%3ERenovate%20the%20existing%20hall%20bathroom.%3C/li%3E%0A%3Cli%3ERehabilitate%20the%20%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%20and%20repair%20the%20entry%20stair.%3C/li%3E%0A%3Cli%3E%3Cul%3EChange%20fa%E7ade.%0A%3Cli%3ERemove%20mansard%20roofs.%3C/li%3E%0A%3Cli%3EReplace%20aluminum%20siding%20with%20cementious%20siding.%3C/li%3E%0A%3Cli%3ENew%20gable%20roofs%20over%20mansard%20windows.%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%20front%20porch.%0A%3Cli%3EStone%20on%20concrete%20floor%3C/li%3E%0A%3Cli%3EBeaded%20wood%20ceiling.%3C/li%3E%0A%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3C/ul%3E
+                     </Bios>
+     </Group>
+     <Group name="o" id="Kitchen">
+         <After source="Gallery/okitchafter1.jpg" head="Picture 1"></After>
+         <After source="Gallery/okitchafter2.jpg" head="Picture 2"></After>
+         <After source="Gallery/okitchafter3.jpg" head="Picture 3"></After>
+         <After source="Gallery/okitchafter4.jpg" head="Picture 4"></After>
+         <After source="Gallery/okitchafter5.jpg" head="Picture 5"></After>
+         <After source="Gallery/okitchafter6.jpg" head="Picture 6"></After>
+         <After source="Gallery/okitchafter7.jpg" head="Picture 7"></After>
+         <Before source="Gallery/mask.jpg"></Before>
+         <Bios> </Bios>
+     </Group>
+</Kitchen>
+<Bathroom>
+     <Group name="b" id="Bathroom"><After source="Gallery/bbathafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/bbathafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Two%20Story%20addition%2C%20Family/Kitchen%20expansion%2C%20existing%20renovation%2C%20new%20fa%E7ade%20and%20front%20porch.%3C/h4%3E%0A%3Cul%3EGoal%3A%20increase%20family%20space%2C%20make%20house%20more%20usable%20for%20family%20gatherings%2C%20update%20the%20exterior%20character%20of%20the%20house.%0A%3Cli%3E%3Cul%3EExpanded%20First%20floor%3A%0A%3Cli%3EExpand%20Family%20room%3C/li%3E%0A%3Cli%3EExpand%20and%20Rehabilitate%20the%20existing%20kitchen%3C/li%3E%0A%3Cli%3ENew%20back%20entry%20with%20covered%20porch.%3C/li%3E%0A%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EExpanded%20and%20renovated%20the%202nd%20floor%0A%3Cli%3EMove%20the%20master%20bath%20and%20closet%20in%20new%202nd%20floor%20area.%3C/li%3E%0A%3Cli%3ERenovate%20the%20existing%20hall%20bathroom.%3C/li%3E%0A%3Cli%3ERehabilitate%20the%20%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%20and%20repair%20the%20entry%20stair.%3C/li%3E%0A%3Cli%3E%3Cul%3EChange%20fa%E7ade.%0A%3Cli%3ERemove%20mansard%20roofs.%3C/li%3E%0A%3Cli%3EReplace%20aluminum%20siding%20with%20cementious%20siding.%3C/li%3E%0A%3Cli%3ENew%20gable%20roofs%20over%20mansard%20windows.%3C/li%3E%0A%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%20front%20porch.%0A%3Cli%3EStone%20on%20concrete%20floor%3C/li%3E%0A%3Cli%3EBeaded%20wood%20ceiling.%3C/li%3E%0A%20%20%20%20%20%20%20%20%3C/ul%3E%3C/li%3E%0A%3C/ul%3E
+                   </Bios>
+     </Group>
+</Bathroom>
+<Miscellaneous>
+     <Group name="a" id="New Window">
+         <After source="Gallery/amiscafter1.jpg" head="Picture 1"></After>
+         <After source="Gallery/amiscafter2.jpg" head="Picture 2"></After>
+         <After source="Gallery/amiscafter3.jpg" head="Picture 3"></After>
+         <After source="Gallery/amiscafter4.jpg" head="Picture 4"></After>
+         <Before source="Gallery/amiscbefore1.jpg"></Before>
+         <Before source="Gallery/amiscbefore2.jpg"></Before>
+         <Before source="Gallery/amiscbefore3.jpg"></Before>
+         <Before source="Gallery/amiscbefore4.jpg"></Before>
+         <Bios>%3Ch4%20id%3D%22underlined%22%3EMisc.%20PROJECT%3A%20New%20Window%3C/h4%3E%0A%3Cul%3EGoal%3A%20Bring%20additional%20light%20and%20ventilation%20into%20front%20entry.%0A%3Cli%3ECut%20in%20a%20new%20Marvin%20casement%20window%20that%20matches%20the%20existing%20house%20windows.%3C/li%3E%0A%3Cli%3EClean%20and%20re-use%20existing%20brick%20to%20match%20the%20existing%20brick.%3C/li%3E%0A%3Cli%3ECustom%20make%20trim%20to%20replicate%20existing%20interior%20trim.%3C/li%3E%0A%3C/ul%3E%0A%0A
+         </Bios>
+     </Group>
+     <Group name="h" id="Family Room"><After source="Gallery/hmiscafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/hmiscafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/hmiscbefore1.jpg"></Before>
+	             <Before source="Gallery/hmiscbefore2.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%202nd%20Floor%20addition%20and%201st%20Floor%20rehabilitation%3C/h4%3E%0A%3Cul%3EGoal%3A%20Double%20the%20space%20of%20a%20ranch%20home%20for%20a%20growing%20family%20and%20create%20an%20In-Law%20suite.%20%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%3A%0A%3Cli%3ETwo%20new%20standard%20Bedrooms%3C/li%3E%0A%3Cli%3ENew%204%20fixture%20Hall%20bathroom%3C/li%3E%0A%3Cli%3E2nd%20floor%20Family%20Room%3C/li%3E%0A%3Cli%3EMaster%20Bedroom%20Suite%3C/li%3E%0A%3Cli%3ELaundry%20Room%3C/li%3E%0A%3Cli%3EArt%20Room%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehabilitated%20First%20floor%3A%0A%3Cli%3EBedroom%20/%20Home%20Office%20space%3C/li%3E%0A%3Cli%3EIn-Law%20space%20with%20Handicapped%20Bathroom%3C/li%3E%0A%3Cli%3ERehabilitated%20Kitchen%20and%20Eating%20area%3C/li%3E%0A%3Cli%3ENew%20front%20porch%20/%20entry%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="i" id="New Family Room"><After source="Gallery/ifamroomafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/ifamroomafter2.jpg" head="Picture 2"></After>
+                     <After source="Gallery/ifamroomafter3.jpg" head="Picture 3"></After>
+                     <After source="Gallery/ifamroomafter4.jpg" head="Picture 4"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%20%22underlined%22%3EPROJECT%3A%20Rehabilitate%20existing%20Ranch%20%u2013%20Cape%20Cod%20home%3C/h4%3E%0A%3Cul%3EGoal%3A%20Re-build%20an%20existing%20crumbling%20Family%20Room%20and%20kitchen.%20%20Improve%20the%20existing%20house%u2019s%20layout%20and%20curb%20appeal%20%0A%3Cli%3E%3Cul%3ERebuild%20East%20Wing%20of%20the%20house.%0A%3Cli%3E%3Cul%3EFamily%20Room%3A%0A%3Cli%3ETear-down%20existing%20structure%3C/li%3E%0A%3Cli%3EStabilize%20foundation%3C/li%3E%0A%3Cli%3ERepair%20concrete%20floor%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3EExpand%20Kitchen%20and%20eating%20area%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehab%20center%20portion%20of%20existing%20First%20floor%3A%0A%3Cli%3ECreate%20formal%20dining%20room%3C/li%3E%0A%3Cli%3ENew%20front%20entry%20space%3C/li%3E%0A%3Cli%3ERehabilitated%20Laundry%20and%20Bathroom%20space%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%20Bathroom.%0A%3Cli%3EShed%20dormer%20with%204%20unit%20bathroom%20and%20linen%20closet.%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EUpdate%20the%20front%20fa%E7ade%3A%0A%3Cli%3ENew%20gable%20roofs%20on%20front%20shed%20dormers%3C/li%3E%0A%3Cli%3ENew%20gable%20front%20entry%3C/li%3E%0A%3Cli%3ENew%20siding%20and%20roofing%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="i" id="Refinished Dining Room"><After source="Gallery/idinroomafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/idinroomafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%20%22underlined%22%3EPROJECT%3A%20Rehabilitate%20existing%20Ranch%20%u2013%20Cape%20Cod%20home%3C/h4%3E%0A%3Cul%3EGoal%3A%20Re-build%20an%20existing%20crumbling%20Family%20Room%20and%20kitchen.%20%20Improve%20the%20existing%20house%u2019s%20layout%20and%20curb%20appeal%20%0A%3Cli%3E%3Cul%3ERebuild%20East%20Wing%20of%20the%20house.%0A%3Cli%3E%3Cul%3EFamily%20Room%3A%0A%3Cli%3ETear-down%20existing%20structure%3C/li%3E%0A%3Cli%3EStabilize%20foundation%3C/li%3E%0A%3Cli%3ERepair%20concrete%20floor%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3EExpand%20Kitchen%20and%20eating%20area%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ERehab%20center%20portion%20of%20existing%20First%20floor%3A%0A%3Cli%3ECreate%20formal%20dining%20room%3C/li%3E%0A%3Cli%3ENew%20front%20entry%20space%3C/li%3E%0A%3Cli%3ERehabilitated%20Laundry%20and%20Bathroom%20space%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3ENew%202nd%20floor%20Bathroom.%0A%3Cli%3EShed%20dormer%20with%204%20unit%20bathroom%20and%20linen%20closet.%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3E%3Cul%3EUpdate%20the%20front%20fa%E7ade%3A%0A%3Cli%3ENew%20gable%20roofs%20on%20front%20shed%20dormers%3C/li%3E%0A%3Cli%3ENew%20gable%20front%20entry%3C/li%3E%0A%3Cli%3ENew%20siding%20and%20roofing%3C/li%3E%0A%3C/ul%3E%3C/li%3E%0A%3Cli%3ENew%20and%20repaired%20oak%20flooring%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="k" id="Interior Addition"><After source="Gallery/kaddintafter1.jpg" head="Picture 1"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>%3Ch4%20id%3D%22underlined%22%3EPROJECT%3A%20Finish%20off%20existing%20Family%20Room%3C/h4%3E%0A%3Cul%3EGoal%3A%20Complete%20Renovation%20of%20a%2017th%20Century%20American%20home%20%0A%3Cli%3EFinish%20plaster%20on%20walls%20and%20ceiling%3C/li%3E%0A%3Cli%3ETrim%20doors%20in%20windows%20with%20custom%20wood%20trim%3C/li%3E%0A%3Cli%3EComplete%20Wainscot%20with%20salvaged%20knotty%20pine%3C/li%3E%0A%3Cli%3EFinish%20wood%20work%20with%20hand%20rubbed%20oil%3C/li%3E%0A%3C/ul%3E%0A%0A
+                   </Bios>
+     </Group>
+     <Group name="o" id="Patio"><After source="Gallery/opatioafter1.jpg" head="Picture 1"></After>
+                     <After source="Gallery/opatioafter2.jpg" head="Picture 2"></After>
+	             <Before source="Gallery/mask.jpg"></Before>
+                   <Bios>  </Bios>
+     </Group>
+</Miscellaneous>
+</gallery>
